@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Carley",
+        "last_name": "Beche",
+        "email": "cbeche0@1und1.de",
+        "gender": "Female"
+    },
+    {
+        "id": 2,
+        "first_name": "Emile",
+        "last_name": "Shute",
+        "email": "eshute1@marriott.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Leia",
+        "last_name": "Rothman",
+        "email": "lrothman2@cbslocal.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Ludovika",
+        "last_name": "Cowlard",
+        "email": "lcowlard3@woothemes.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Vick",
+        "last_name": "Goundsy",
+        "email": "vgoundsy4@wikipedia.org",
+        "gender": "Male"
+    },
+    {
+        "id": 6,
+        "first_name": "Burke",
+        "last_name": "Barthorpe",
+        "email": "bbarthorpe5@google.ca",
+        "gender": "Male"
+    },
+    {
+        "id": 7,
+        "first_name": "Kissie",
+        "last_name": "Cozby",
+        "email": "kcozby6@dailymotion.com",
+        "gender": "Female"
+    },
+    {
+        "id": 8,
+        "first_name": "Betsey",
+        "last_name": "Tunsley",
+        "email": "btunsley7@odnoklassniki.ru",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Caitrin",
+        "last_name": "Ferrucci",
+        "email": "cferrucci8@prnewswire.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Shawn",
+        "last_name": "Relph",
+        "email": "srelph9@epa.gov",
+        "gender": "Female"
+    }
+]
